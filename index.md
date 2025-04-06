@@ -1,5 +1,4 @@
 ---
-title: Welcome to GitHub Pages
+title: Welcome to my blog
 ---
 
-# Hi, Welcome to GitHub Pages 👋🏻
